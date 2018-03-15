@@ -1,0 +1,5 @@
+{
+    "Animal"    : "Elephant",
+    "Fruits"    : ["Apple", "Banana"],
+    "Quantity"  : 100
+}
