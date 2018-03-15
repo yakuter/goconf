@@ -35,8 +35,16 @@ func getConfig() (string, []string, int) {
 
 func main() {
 
-	fmt.Println("Animal		:", animal)
-	fmt.Println("Fruits		:", fruits)
-	fmt.Println("Quantity 	:", quantity)
+	fmt.Println("Animal   :", animal)
+	fmt.Println("Fruits   :", fruits)
+	fmt.Println("Quantity :", quantity)
+
+	/* Output
+
+	Animal          : Elephant
+	Fruits          : [Apple Banana]
+	Quantity        : 100
+
+	*/
 
 }
