@@ -37,6 +37,6 @@ func main() {
 
 	fmt.Println("Animal		:", animal)
 	fmt.Println("Fruits		:", fruits)
-	fmt.Println("Quantity	:", quantity)
+	fmt.Println("Quantity 	:", quantity)
 
 }
